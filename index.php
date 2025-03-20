@@ -28,7 +28,7 @@
 				<!-- Nav -->
 				<nav id="nav">
 					<ul>
-						<li class="current"><a href="index.php">Welcome</a></li>
+						<li class="current"><a href="index.php">Home</a></li>
 
 						<li><a href="todo.php">Todo's</a></li>
 
